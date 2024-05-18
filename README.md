@@ -43,9 +43,9 @@ The goal of this activity is to create a neural-network(NN) model that will pred
 <li>Add a 3rd hidden layer (additional combinations)</li>
 <li>Moved epochs to 120 (had the model not processed far enough?)</li>
 <li>Increase units in second layer and remove 3rd layer (alternate to option #2)</li>
-<li>Increase Application Types to increase # of bins (from &lt;500 &lt;100). Opposite of #1</li>
+<li>Increase Application Types to increase # of bins from &lt;500 to &lt;100 (Opposite of #1)</li>
 <li>Increase Classification Types further (&lt;100). Was Classification more impactful than Application types?</li>
-<ul>
+</ul>
 
 <h2>Summary</h2>
 
